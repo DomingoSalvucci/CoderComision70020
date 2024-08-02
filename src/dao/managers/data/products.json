@@ -1,0 +1,36 @@
+[
+  {
+    "id": "bded10b6-a524-477f-9545-0b5768dfeefa",
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "price": 800,
+    "thumbnail": [],
+    "code": "ABC121",
+    "stock": 15,
+    "category": "Ropa",
+    "status": true
+  },
+  {
+    "id": "eeaafe49-095e-4f37-a175-cde1fc5bf44f",
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "price": 800,
+    "thumbnail": [],
+    "code": "ABC122",
+    "stock": 15,
+    "category": "Ropa",
+    "status": true,
+    "query": ""
+  },
+  {
+    "id": "fffc1a94-1e15-454e-8685-738e5fbe3fb4",
+    "title": "Producto 3",
+    "description": "Descripción del producto 3",
+    "price": 800,
+    "thumbnail": "",
+    "code": "ABC123",
+    "stock": 15,
+    "category": "Ropa",
+    "status": true
+  }
+]
